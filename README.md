@@ -4,3 +4,4 @@ This is a demo repository to practice Git commands, branching, and merging.
 This is my first time to try Git in my pc.
 ## Joash Marasigan
 ### BSIT 3-1N
+## Charles Benedict Manalo
