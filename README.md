@@ -5,4 +5,5 @@ This is my first time to try Git in my pc.
 ## Joash Marasigan
 ## Charles Benedict Manalo
 ## Victor Jose Abella
+## Geneth De Irio
 ### BSIT 3-1N
